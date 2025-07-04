@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Biagi Archie
 
-<!--
-**Biagiarchiefz/Biagiarchiefz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer • Learner • Builder
 
-Here are some ideas to get you started:
+🧠 Learning React, Next.js, and Tailwind CSS  
+🎯 Passionate about clean UI and good user experience  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚒️ Tech Stack
+
+- React • Tailwind CSS  
+- JavaScript
+- Git • GitHub • Figma
+
+## 📬 Let's Connect
+
+- 📧 biagiarchiefz@gmail.com  
+- 🌐 [biagiarchiefz.github.io](https://biagiarchiefz.github.io)  
+- 💼 [LinkedIn](https://linkedin.com/in/biagiarchiefz)
+
+Thanks for visiting! 🙌
