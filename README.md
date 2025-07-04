@@ -13,8 +13,8 @@ Frontend Developer • Learner • Builder
 
 ## 📬 Let's Connect
 
-- 📧 biagiarchiefz@gmail.com  
-- 🌐 [biagiarchiefz.github.io](https://biagiarchiefz.github.io)  
-- 💼 [LinkedIn](https://linkedin.com/in/biagiarchiefz)
+- 📧 biagiiarchie@gmail.com  
+- 🌐 [biagiarchiefz.github.io](https://biagiarchiefz.github.io/portfolio-v1/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/biagiarchiefz/)
 
 Thanks for visiting! 🙌
