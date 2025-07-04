@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Biagi Archie
+# 👋 Hi, I'm Biagi Archie Fais
 
 Frontend Developer • Learner • Builder
 
