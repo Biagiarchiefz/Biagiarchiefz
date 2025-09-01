@@ -7,8 +7,8 @@ Frontend Developer • Learner • Builder
 
 ## ⚒️ Tech Stack
 
-- React • Tailwind CSS  
-- JavaScript
+- React • Next.js • Tailwind CSS  
+- JavaScript • TypeScript  
 - Git • GitHub • Figma
 
 ## 📬 Let's Connect
