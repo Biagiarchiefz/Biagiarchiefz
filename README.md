@@ -1,20 +1,17 @@
 # 👋 Hi, I'm Biagi Archie Faiz
 
-Frontend Developer • Learner • Builder
+Fullstack Developer based in Indonesia.
 
-🧠 Learning React, Next.js, and Tailwind CSS  
-🎯 Passionate about clean UI and good user experience  
+I'm passionate about building modern web applications with clean user experiences and scalable backend systems.
 
-## ⚒️ Tech Stack
+Currently, I'm learning more about backend engineering, system design, and AI integration while continuously improving my fullstack development skills.
 
-- React • Next.js • Tailwind CSS  
-- JavaScript • TypeScript  
-- Git • GitHub • Figma
+I'm always excited to build projects, explore new technologies, and solve real-world problems through software.
 
 ## 📬 Let's Connect
 
-- 📧 biagiiarchie@gmail.com  
-- 🌐 [biagiarchiefz.github.io](https://biagiarchiefz.github.io/portfolio-v1/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/biagiarchiefz/)
+- 📧 biagiiarchie@gmail.com
+- 🌐 https://biagi.kodingin.id
+- 💼 https://www.linkedin.com/in/biagiarchiefz/
 
 Thanks for visiting! 🙌
